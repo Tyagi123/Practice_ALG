@@ -5,6 +5,8 @@ public class OneAwayChar {
     }
 
     private static boolean oneAweyChar(String str1, String str2) {
+
+
         int count = 0;
         int index1 = 0;
         int index2 = 0;
